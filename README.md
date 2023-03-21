@@ -8,6 +8,23 @@
 
 
 # Table of contents
+Event Sorming
+![이벤트스토밍](https://user-images.githubusercontent.com/127805441/226516787-bd0f42f0-e3b8-40f2-a172-ac6c4ca6b830.PNG)
+
+1.Saga(Pub/Sub)
+![사가](https://user-images.githubusercontent.com/127805441/226516856-cfdc33dd-0f55-4374-9e61-55de06f59eb9.PNG)
+
+2.CQRS
+![CQR_1](https://user-images.githubusercontent.com/127805441/226516947-3367b20d-c87d-4486-89c5-2919632056df.PNG)
+![CQR_2](https://user-images.githubusercontent.com/127805441/226516985-a04001a8-d64a-4022-a74d-c223dc42d601.PNG)
+![CQR_3](https://user-images.githubusercontent.com/127805441/226517004-50855856-fac9-48dd-b480-d9f3a6e69275.PNG)
+![CQR_4](https://user-images.githubusercontent.com/127805441/226517016-525042fd-ef90-4fd5-92df-ef6aa2b5aa54.PNG)
+![CQR_5](https://user-images.githubusercontent.com/127805441/226517036-55e6401c-6ddb-4499-92b2-991a04857642.PNG)
+
+3.Compensation/Correlation
+![CQR_6](https://user-images.githubusercontent.com/127805441/226517086-768626aa-2781-44b6-8e48-fad5038837aa.PNG)
+
+
 
 
 - [예제 - 음식배달](#---)
@@ -55,7 +72,6 @@
 # 체크포인트
 
 - 분석 설계
-![CQR_6](https://user-images.githubusercontent.com/127805441/226516687-34c72038-9d38-4b9e-ad55-2f97d75288f6.PNG)
 
 
   - 이벤트스토밍: 
